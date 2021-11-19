@@ -6,21 +6,15 @@ background-color: #fbfaf5;
 }
 
 h1{
-text-align: left;
 color: #fbfaf5;
 padding: 10px;
-margin: 10px;
 background-color: #2e2930;
 }
 
-div{
-text-align: left;
-}
+
 
 h2{
-text-align: left;
 border-bottom: medium;
 border-bottom-color: #2e2930;
 border-bottom-style: solid;
-margin: 10px;
 }
