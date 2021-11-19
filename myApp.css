@@ -1,5 +1,4 @@
 body{
-margin: auto;
 padding: 10px;
 width: 80%; 
 background-color: #fbfaf5;
@@ -8,12 +7,16 @@ background-color: #fbfaf5;
 h1{
 color: #fbfaf5;
 padding: 10px;
-margin: 10px 0;
+margin: 10px auto;
 background-color: #2e2930;
+}
+div{
+margin: auto;
 }
 
 h2{
 border-bottom: medium;
 border-bottom-color: #2e2930;
 border-bottom-style: solid;
+margin: 5px auto;
 }
