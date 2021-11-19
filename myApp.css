@@ -1,23 +1,26 @@
 body{
+text-align: center;
 padding: 10px;
-width: 80%; 
+width: 85%; 
 background-color: #fbfaf5;
 }
 
 h1{
+text-align: left;
 color: #fbfaf5;
 padding: 10px;
-margin: 10px auto;
+margin: 10px
 background-color: #2e2930;
 }
 
 div{
-margin: 0 auto;
+text-align: left;
 }
 
 h2{
+text-align: left;
 border-bottom: medium;
 border-bottom-color: #2e2930;
 border-bottom-style: solid;
-margin: 5px auto;
+margin: 10px;
 }
